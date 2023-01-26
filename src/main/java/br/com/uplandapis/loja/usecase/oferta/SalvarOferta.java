@@ -1,7 +1,7 @@
 package br.com.uplandapis.loja.usecase.oferta;
 
-import br.com.uplandapis.loja.entity.Oferta;
-import br.com.uplandapis.loja.repositories.OfertaRepository;
+import br.com.uplandapis.loja.gateway.entity.Oferta;
+import br.com.uplandapis.loja.gateway.repositories.OfertaRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

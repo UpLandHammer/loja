@@ -1,7 +1,7 @@
 package br.com.uplandapis.loja.usecase.usuario;
 
-import br.com.uplandapis.loja.entity.User;
-import br.com.uplandapis.loja.repositories.UserRepository;
+import br.com.uplandapis.loja.gateway.entity.User;
+import br.com.uplandapis.loja.gateway.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

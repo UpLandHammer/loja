@@ -1,7 +1,7 @@
 package br.com.uplandapis.loja.usecase.pedido;
 
-import br.com.uplandapis.loja.entity.Pedido;
-import br.com.uplandapis.loja.repositories.PedidoRepository;
+import br.com.uplandapis.loja.gateway.entity.Pedido;
+import br.com.uplandapis.loja.gateway.repositories.PedidoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

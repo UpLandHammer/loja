@@ -1,7 +1,7 @@
 package br.com.uplandapis.loja.config;
 
 import br.com.uplandapis.loja.exceptions.BuscarUsuarioException;
-import br.com.uplandapis.loja.repositories.UserRepository;
+import br.com.uplandapis.loja.gateway.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.core.userdetails.UserDetails;

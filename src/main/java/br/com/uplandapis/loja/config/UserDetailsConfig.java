@@ -1,6 +1,6 @@
 package br.com.uplandapis.loja.config;
 
-import br.com.uplandapis.loja.entity.User;
+import br.com.uplandapis.loja.gateway.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
